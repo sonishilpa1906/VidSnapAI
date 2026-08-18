@@ -1,6 +1,0 @@
-file '1e206cc5b961b6c5472f3918f1159f4f.jpg'
-duration 1
-file '14515.jpg'
-duration 2
-file '19787_10151332230154818_1382169592_n.jpg'
-duration 3
