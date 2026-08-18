@@ -1,0 +1,10 @@
+file '-187796184.jpg'
+duration 1
+file '993770_280492695428042813922_N.jpg'
+duration 1
+file '-682736715.jpg'
+duration 1
+file '01264_leaf40_1920x1080.jpg'
+duration 1
+file 'AUZOKA1.JPG'
+duration 1
